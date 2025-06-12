@@ -1,0 +1,13 @@
+# Compiled Java classes
+*.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# all txt files
+*.txt
+
+# powershell files all
+*.ps1
+
