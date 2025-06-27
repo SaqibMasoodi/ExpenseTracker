@@ -139,3 +139,4 @@ public class ExpenseController {
 // Sorting added
 // Validation added
 // Mouse listener stub
+// Fixed index calculation
