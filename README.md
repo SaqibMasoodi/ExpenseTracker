@@ -80,3 +80,4 @@ The project is modularized to ensure maintainability:
 > **Note:** This is an offline tool; all data is stored locally on the user's machine.
 <!-- Internal Draft: Final Review Complete -->
 <!-- Draft: Final Review Complete -->
+<!-- Draft: Final Review Complete -->
