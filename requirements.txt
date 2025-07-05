@@ -1,0 +1,12 @@
+# Project Requirements
+
+## Runtime Environment
+- Java Development Kit (JDK) 17 or higher
+- Java AWT (Abstract Window Toolkit) - included in standard JDK
+
+## Execution
+To compile and run the application:
+```powershell
+javac src/*.java
+java -cp src Launcher
+```
